@@ -1,2 +1,2 @@
 # warezio
-wares
+warezio
