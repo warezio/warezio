@@ -1,0 +1,24 @@
+html, body, header, section, footer {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header, section, footer {
+    padding: 10px;
+}
+
+header dl, section ul {
+    line-height: 1.75;
+}
+
+footer {
+    clear: both;
+    margin: 50px 0 0 0;
+    min-height: 50px;
+    text-align: center;
+}
+
+footer address {
+    font-size: 13px;
+}
